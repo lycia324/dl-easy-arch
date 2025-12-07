@@ -1,0 +1,5 @@
+{
+  "name": "NeuroGraph: AI Architecture Visualizer",
+  "description": "A scientific-style deep learning architecture builder. Create, visualize, and generate neural network diagrams using a research paper aesthetic. Powered by Gemini for auto-layout.",
+  "requestFramePermissions": []
+}
